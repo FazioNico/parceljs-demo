@@ -1,5 +1,5 @@
 # Parcel Bundler Demo
-> [Demo] Simple JS Starter with Parcel Bundler
+> [Demo] Simple JS Starter with Parcel Bundler and zero configuration file
 
 ## Start
 - $ nvm use 12
